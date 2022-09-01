@@ -1,0 +1,5 @@
+1. Table Modify
+2. Page Title Dynamic
+3. SEO Title, Description -- Meta Tag Application
+4. From Frontend Max Image Size Set -- HTML Input tile Size
+
